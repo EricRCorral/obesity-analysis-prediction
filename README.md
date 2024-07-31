@@ -13,3 +13,5 @@ Libraries used:
 - nbformat
 
 Data source: [Obesity or CVD risk (Classify/Regressor/Cluster)](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster)
+
+Notebook: https://www.kaggle.com/code/ericrc/eda-classification-97-acc
